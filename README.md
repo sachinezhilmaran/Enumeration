@@ -32,24 +32,34 @@ Google hacking, also known as Google dorking, is a technique that involves using
 
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
-
+# OUTPUT:
+![image](https://github.com/sachinezhilmaran/Enumeration/assets/128135351/d97903e9-098c-498b-83e4-711f0f4ab589)
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
-
-
+# OUTPUT:
+![image](https://github.com/sachinezhilmaran/Enumeration/assets/128135351/bd2e9183-7af6-4fde-ae43-828903ebbb77)
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
-
+# OUTPUT:
+![image](https://github.com/sachinezhilmaran/Enumeration/assets/128135351/6acc7988-d68c-435d-94e9-15f3755831f9)
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
+# OUTPUT:
+![image](https://github.com/sachinezhilmaran/Enumeration/assets/128135351/2f56ee75-6a60-496c-a743-91d2177b4a69)
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
+# OUTPUT:
+![image](https://github.com/sachinezhilmaran/Enumeration/assets/128135351/b3f8b620-6773-4b1c-b1e3-42792c7b75e2)
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
+# OUTPUT:
+![image](https://github.com/sachinezhilmaran/Enumeration/assets/128135351/8ebad7e2-1737-44c7-875c-7e273f40fd14)
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
- 
+ # OUTPUT:
+ ![image](https://github.com/sachinezhilmaran/Enumeration/assets/128135351/02296739-89de-420a-8981-14dd811715c9)
+
 #DNS Enumeration
 
 
